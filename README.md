@@ -1,2 +1,2 @@
-# COVID-19-Case-study
-*****
+# COVID-19-Case-study (Data analysis & visualization)
+
